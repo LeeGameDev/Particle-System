@@ -5,11 +5,3 @@ C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\Particl
 C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.csproj.GenerateResource.Cache
 C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.exe
 C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.pdb
-C:\Users\Lee\Documents\GitHub\Particle-System\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.exe
-C:\Users\Lee\Documents\GitHub\Particle-System\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.pdb
-C:\Users\Lee\Documents\GitHub\Particle-System\Release\ParticleEmitterTool.exe
-C:\Users\Lee\Documents\GitHub\Particle-System\Release\ParticleEmitterTool.pdb
-C:\Users\Lee\Documents\GitHub\Particle-System\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.csprojResolveAssemblyReference.cache
-C:\Users\Lee\Documents\GitHub\Particle-System\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.Form1.resources
-C:\Users\Lee\Documents\GitHub\Particle-System\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.Properties.Resources.resources
-C:\Users\Lee\Documents\GitHub\Particle-System\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.csproj.GenerateResource.Cache
