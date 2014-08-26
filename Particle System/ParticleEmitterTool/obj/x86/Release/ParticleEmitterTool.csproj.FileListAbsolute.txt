@@ -1,0 +1,7 @@
+C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\bin\Release\ParticleEmitterTool.exe
+C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\bin\Release\ParticleEmitterTool.pdb
+C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.Form1.resources
+C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.Properties.Resources.resources
+C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.exe
+C:\Users\Lee\Desktop\Particle System\ParticleEmitterTool\obj\x86\Release\ParticleEmitterTool.pdb
