@@ -1,4 +1,0 @@
-<?xml version="1.0"?>
-<EmitterSet>
-  <Emitter X="150" Y="150" EmRate="100" MaxParticles="3000" ParticleType="-842150451" initialR="255" initialG="255" initialB="255" initialA="255" finalR="255" finalG="255" finalB="255" finalA="255" />
-</EmitterSet>
